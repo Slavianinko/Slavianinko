@@ -7,6 +7,6 @@
 
 Python / SQL / Numpy / Pandas / Sklearn / XGBoost / CatBoost
 
-
+ [Мои учебные проекты](Yandex_practicum)
 
 [![codewars](https://www.codewars.com/users/Slavianin/badges/large)](https://www.codewars.com/Slavianin/username) 
