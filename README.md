@@ -2,17 +2,16 @@
 
 ### Hi there 👋
 
-<!--
-**Slavianinko/Slavianinko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Viacheslav
+#### I am data scientist
+![I am data scientist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+I am studying at the Data Science specialist course at Yandex Practicum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Python / SQL / Numpy / Pandas / Sklearn 
+
+- 🔭 I’m currently working on this page. 
+
+
+![Альтернативный текст](header.png)
+
