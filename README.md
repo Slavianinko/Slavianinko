@@ -12,4 +12,4 @@ Python / [SQL](https://stepik.org/cert/1568395) / Numpy / Pandas / Sklearn / XGB
 [![codewars](https://www.codewars.com/users/Slavianin/badges/large)](https://www.codewars.com/Slavianin/username) 
 
 Мой телеграм: [@SlavianinKo](https://t.me/SlavianinKo)
-Moz почта: [Korneichuk-v-n@yandex.ru](Korneichuk-v-n@yandex.ru)
+Moя почта: [Korneichuk-v-n@yandex.ru](Korneichuk-v-n@yandex.ru)
