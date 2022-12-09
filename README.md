@@ -5,11 +5,13 @@
 
 Освоил Python, основные библиотеки для работы с данными и классические алгоритмы машинного обучения. 
 
-[Мои учебные проекты здесь.](https://github.com/Slavianinko/Yandex_practicum)
+[Мои самостоятельные проекты выполненные в ходе обучения на ЯП здесь.](https://github.com/Slavianinko/Yandex_practicum)
 
 [Мои пет проекты здесь.](https://github.com/Slavianinko/Chat_bot)
 
 [Мои попытки участия в соревнаваниях по ML здесь.](https://github.com/Slavianinko/My_DS_competition)
+
+[Мои выполненные тестовые задания здесь.](https://github.com/Slavianinko/test-tasks)
 
 Python / [SQL](https://stepik.org/cert/1568395) / Numpy / Pandas / Sklearn / XGBoost / CatBoost / 
 
