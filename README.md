@@ -9,7 +9,7 @@
 
 ### [Мои пет проекты здесь.](https://github.com/Slavianinko/Chat_bot)
 
-### [Мои попытки участия в соревнаваниях по ML здесь.](https://github.com/Slavianinko/My_DS_competition)
+### [Мои участия в соревнаваниях по ML здесь.](https://github.com/Slavianinko/My_DS_competition)
 
 ### [Мои выполненные тестовые задания здесь.](https://github.com/Slavianinko/test-tasks)
 
