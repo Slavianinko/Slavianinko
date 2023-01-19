@@ -11,7 +11,7 @@
 
 ### [Мои участия в соревнаваниях по ML здесь.](https://github.com/Slavianinko/My_DS_competition)
 
-### [Мои выполненные тестовые задания здесь.](https://github.com/Slavianinko/test-tasks)
+### [Мои выполненные Freelance проекты здесь.](https://github.com/Slavianinko/test-tasks)
 
 Python / [SQL](https://stepik.org/cert/1568395) / Numpy / Pandas / Sklearn / XGBoost / CatBoost / 
 
